@@ -33,3 +33,5 @@ Me chamo Pedro Lucas Cadête, tenho 23 anos e sou natural de Pernambuco. Sou for
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+          
